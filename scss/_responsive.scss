@@ -25,11 +25,12 @@
       overflow: hidden;
       span {
         flex-direction: column;
-        margin-top: 0;
+        margin-top: 0;      
         h4,
         p {
           font-size: 28px !important;
           margin-bottom: 5px;
+          margin-left: 0 ;        
         }
       }
     }

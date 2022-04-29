@@ -336,6 +336,7 @@ body {
   .main .header span p {
     font-size: 28px !important;
     margin-bottom: 5px;
+    margin-left: 0;
   }
   .main .hour {
     height: 60%;
